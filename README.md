@@ -14,7 +14,7 @@ Including, but not limited to, personal projects and professional projects.
 * **[Choropleth Map 2](https://gis2-demo.bowencheng.com/)** - View LA County's total land improvement value (for the current roll year) by address.
 
 ## Professional Projects
-View my portfolio at **[https://portfolio.bowencheng.com/](https://portfolio.bowencheng.com/)**
+View my professional projects at **[https://portfolio.bowencheng.com/](https://portfolio.bowencheng.com/)**
 <!--
 **brevityism/brevityism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
