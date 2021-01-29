@@ -1,5 +1,5 @@
 # The Collection
-**Including, but not limited to, personal projects and professional projects.**
+Including, but not limited to, personal projects and professional projects.
 
 ## Personal Projects
 ### Web Applications including SMTP, VoIP, SMS, and Fax technologies
