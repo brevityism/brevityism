@@ -10,7 +10,7 @@ Including, but not limited to, personal projects and professional projects.
 
 ### Data Analytics including visualization and GIS technologies
 * **[Organization Chart](https://viz-demo.bowencheng.com/)** - View LA County's Internal Service Department organization.
-* **[Choropleth Map 1](https://gis1-demo.bowencheng.com/)** - View LA County's average total land improvement value (for the 2019 roll year) by city.
+* **[Choropleth Map 1](https://gis1-demo.bowencheng.com/)** - View LA County's average total land improvement value (for the 2020 roll year) by city.
 * **[Choropleth Map 2](https://gis2-demo.bowencheng.com/)** - View LA County's total land improvement value (for the current roll year) by address.
 
 ## Professional Projects
