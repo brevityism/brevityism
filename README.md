@@ -7,7 +7,7 @@ IT Manager I at the Los Angeles County Probation Department, Southern Califo
 
 ## 👋 About Me
 
-I lead teams that build and support systems powering one of the largest probation departments in the country. With a strong background in software development and cloud infrastructure, I’ve modernized platforms ranging from staff scheduling to emergency alert systems -- making tools faster, smarter, and more secure :contentReference[oaicite:1]{index=1}.
+I lead teams that build and support systems powering one of the largest probation departments in the country. With a strong background in software development and cloud infrastructure, I’ve modernized platforms ranging from staff scheduling to emergency alert systems -- making tools faster, smarter, and more secure.
 
 I'm deeply committed to public service and believe technology should simplify life for staff and community alike. Whether guiding system rewrites, designing DevOps strategies, or mentoring emerging leaders, I aim to build solutions that truly work.
 
@@ -25,7 +25,7 @@ I'm deeply committed to public service and believe technology should simplify li
 ## 💼 Experience Highlights
 
 - **IT Manager I**, LA County Probation Department  
-  - Oversee system modernization, including staff scheduling tools and alert systems :contentReference[oaicite:2]{index=2}  
+  - Oversee system modernization, including staff scheduling tools and alert systems  
   - Implement scalable cloud-native architectures and robust DevOps practices  
   - Mentor junior engineers and foster a growth-oriented team culture
 
