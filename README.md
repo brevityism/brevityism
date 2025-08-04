@@ -1,6 +1,7 @@
 # Bowen Cheng
 
 **Leading Public Sector Innovation Through People, Process & Technology**
+
 IT Manager I at the Los Angeles County Probation Department, Southern California 🇺🇸
 
 ---
