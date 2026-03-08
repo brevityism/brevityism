@@ -58,4 +58,4 @@ I’m excited to pursue broader leadership roles that help drive public-sector i
 
 ---
 
-*© 2025 Bowen Cheng. All Rights Reserved.*
+*© 2026 Bowen Cheng. All Rights Reserved.*
