@@ -1,61 +1,43 @@
 # Bowen Cheng
 
-**Leading Public Sector Innovation Through People, Process & Technology**
+**Operating Enterprise Systems at Scale & Building Digital Platforms**
 
-IT Manager I at the Los Angeles County Probation Department, Southern California 🇺🇸
-
----
-
-## 👋 About Me
-
-I lead teams that build and support systems powering one of the largest probation departments in the country. With a strong background in software development and cloud infrastructure, I’ve modernized platforms ranging from staff scheduling to emergency alert systems — making tools faster, smarter, and more secure.
-
-I'm deeply committed to public service and believe technology should simplify life for staff and community alike. Whether guiding system rewrites, designing DevOps strategies, or mentoring emerging leaders, I aim to build solutions that truly work.
+IT Manager I, Los Angeles County Probation Department | Founder, BWN Ventures
 
 ---
 
-## 🌟 Specialties & Skillsets
+## 👋 About
 
-- **Leadership & Team Management** — Architecting cross-functional teams, delivering large-scale software and cloud projects
-- **Software Engineering** — Full-stack development with scalable and maintainable codebases
-- **Cloud & DevOps** — CI/CD pipelines, automation, security, and resilience
-- **Strategic Problem-Solving** — Crafting solutions aligned with organizational goals and user needs
+Hey,  
+I'm Bowen Cheng.
 
----
+I'm an IT Manager I at the Los Angeles County Probation Department, where I lead teams responsible for delivering and supporting enterprise systems at scale within one of the largest probation departments in the United States.
 
-## 💼 Experience Highlights
+I lead enterprise systems supporting thousands of users across one of the largest probation departments in the United States.
 
-- **IT Manager I**, LA County Probation Department
-  - Oversee system modernization, including staff scheduling tools and alert systems
-  - Implement scalable cloud-native architectures and robust DevOps practices
-  - Mentor junior engineers and foster a growth-oriented team culture
+My work focuses on modernizing public-sector technology and strengthening how large organizations leverage systems, data, and infrastructure to operate effectively. I lead efforts centered on reliability, continuity, and long-term sustainability of the platforms that support critical public services.
 
-- **Software Developer / Cloud Engineer**, various public- and private-sector roles
-  - Designed and delivered secure, high-performance infrastructure
-  - Migrated legacy systems to modern cloud platforms
-  - Led cross-team collaboration to improve system reliability and performance
+In parallel, I'm the founder of **[BWN Ventures](https://www.bwnventures.com/)**, a software holding company focused on the long-term ownership and growth of digital platforms. The portfolio includes **[PurrMobile](https://www.purrmobile.com/)**, a global travel connectivity platform for international travelers.
+
+Across both public service and venture building, I operate at the intersection of technology, operations, and organizational leadership, with a focus on building systems and teams that scale, operate reliably, and deliver measurable real-world impact.
 
 ---
 
-## 🎯 Mission Statement
+## ⚙️ Focus Areas
 
-> “I focus on building solutions that actually solve problems.”
-
-I believe in blending hands-on technical work with strategic leadership. My mission is to streamline operations, foster collaboration, and deliver meaningful impact at scale across LA County.
-
----
-
-## 🚀 What’s Next
-
-I’m excited to pursue broader leadership roles that help drive public-sector innovation and make a tangible difference in our communities.
+- Enterprise Systems & Public-Sector Technology  
+- Software Engineering & Platform Development  
+- Cloud Infrastructure & DevOps  
+- Organizational Leadership & Team Building  
 
 ---
 
-## 📩 Connect With Me
+## 🌐 Connect
 
+- **[Website](https://www.bowencheng.com/)**
+- **[X](https://x.com/brevityism/)**
 - **[LinkedIn](https://www.linkedin.com/in/brevityism/)**
-- **[X (formerly Twitter)](https://x.com/brevityism/)**
 
 ---
 
-*© 2026 Bowen Cheng. All Rights Reserved.*
+*© 2026 Bowen Cheng*
