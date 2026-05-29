@@ -1,6 +1,6 @@
 # Bowen Cheng
 
-**Operating Enterprise Systems at Scale & Building Digital Platforms**
+**Operating Enterprise Systems at Scale**
 
 IT Manager I, Los Angeles County Probation Department | Founder, BWN Ventures
 
